@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "透明な旅",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:07:58.482586Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明な旅",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_透明な旅_サンボマスター.txt"
+    }
+  ]
+}
